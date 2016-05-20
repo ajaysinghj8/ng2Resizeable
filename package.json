@@ -1,0 +1,26 @@
+{
+  "name": "ng2-resizeable",
+  "version": "0.0.1",
+  "description": "Resizeable angular2 module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderAjay/ng2Resizeable.git"
+  },
+  "keywords": [
+    "Resizeable",
+    "angular2",
+    "module",
+    "typescript",
+    "CoderAjay"
+  ],
+  "author": "Ajay Singh <meajaysingh@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoderAjay/ng2Resizeable/issues"
+  },
+  "homepage": "https://github.com/CoderAjay/ng2Resizeable#readme"
+}
